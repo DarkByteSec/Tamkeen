@@ -1,0 +1,94 @@
+[
+  {
+    "service_id": "01",
+    "service_name": {
+      "ar": "بطاقة الخدمات المتكاملة",
+      "en": "Integrated Services Card"
+    },
+    "target_disabilities": [
+      "جميع الإعاقات"
+    ],
+    "description": {
+      "ar": "البطاقة الرئيسية للحصول على المزايا والإعفاءات والخدمات الحكومية والصحية.",
+      "en": "The main card required to access government benefits, health services, and exemptions."
+    },
+    "requirements": {
+      "ar": "شرط أساسي: اجتياز التقييم الوظيفي والطبي المقررة من الجهات المختصة.",
+      "en": "Essential condition: Passing the functional and medical assessment by competent authorities."
+    }
+  },
+  {
+    "service_id": "02",
+    "service_name": {
+      "ar": "السيارات المجهزة المعفاة من الجمارك",
+      "en": "Customs-Exempt Equipped Cars"
+    },
+    "target_disabilities": [
+      "حركية"
+    ],
+    "description": {
+      "ar": "الحصول على سيارة مجهزة معفاة من الجمارك والضرائب لتسهيل الحركة والتنقل.",
+      "en": "Obtain a customs-exempt modified vehicle to facilitate mobility."
+    },
+    "requirements": {
+      "ar": "شرط أساسي: صدور تقارير طبية معتمدة تثبت استحقاق التجهيز الطبي للسيارة.",
+      "en": "Essential condition: Issuance of approved medical reports proving eligibility."
+    }
+  },
+  {
+    "service_id": "03",
+    "service_name": {
+      "ar": "الأجهزة التعويضية والوسائل المساعدة",
+      "en": "Prosthetic Devices & Assistive Technologies"
+    },
+    "target_disabilities": [
+      "جميع الإعاقات"
+    ],
+    "description": {
+      "ar": "توفير الوسائل المساعدة كالكرسي المتحرك، السماعات، والعصا البيضاء لتسهيل الحياة اليومية.",
+      "en": "Providing wheelchairs, hearing aids, and white canes to support independent living."
+    },
+    "requirements": {
+      "ar": "شرط أساسي: توقيع الكشف الطبي المتخصص لتحديد نوع الجهاز المناسب للحالة.",
+      "en": "Essential condition: Specialized medical examination to determine the appropriate device."
+    }
+  },
+  {
+    "service_id": "04",
+    "service_name": {
+      "ar": "تخفيضات المواصلات وتسهيلات الترفيه",
+      "en": "Transportation Discounts & Public Services"
+    },
+    "target_disabilities": [
+      "حركية",
+      "بصرية",
+      "سمعية"
+    ],
+    "description": {
+      "ar": "الحصول على خصومات على تذاكر القطارات، المترو، والمتاحف والاحتفاليات العامة.",
+      "en": "Discounts on train tickets, metro, museums, and public events."
+    },
+    "requirements": {
+      "ar": "شرط أساسي: إثبات الإعاقة بالبطاقة الرسمية المعتمدة عند الجهات المقدمة للخدمة.",
+      "en": "Essential condition: Proof of disability using the official approved card."
+    }
+  },
+  {
+    "service_id": "05",
+    "service_name": {
+      "ar": "خدمات الدمج التعليمي ومراكز التأهيل",
+      "en": "Educational Inclusion & Rehabilitation"
+    },
+    "target_disabilities": [
+      "ذهنية"
+    ],
+    "description": {
+      "ar": "التسجيل في برامج الدمج المدرسية والجامعية ومراكز التخاطب وتنمية المهارات.",
+      "en": "Enrollment in school/university inclusion programs and speech rehabilitation centers."
+    },
+    "requirements": {
+      "ar": "شرط أساسي: استيفاء تقارير القياس النفسي والتربوي المعتمدة للدمج.",
+      "en": "Essential condition: Meeting approved psychological and educational assessment reports."
+    }
+  }
+]

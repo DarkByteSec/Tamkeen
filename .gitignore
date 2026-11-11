@@ -1,0 +1,90 @@
+# Python bytecode, test results, and tooling caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.tox/
+.nox/
+.hypothesis/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Build and packaging output
+build/
+dist/
+
+
+# Generated reports and personal data
+data/reports/*
+!data/reports/.gitkeep
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+
+# Local databases and database journals
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# TAMKEEN user data and generated reports
+/data/progress.json
+/data/sessions/
+/data/uploads/
+/data/reports/*
+!/data/reports/.gitkeep
+/uploads/
+/user_data/
+
+# Streamlit runtime cache (keep shared .streamlit/config.toml)
+.streamlit/cache/
+streamlit_cache/
+
+# Logs and temporary runtime files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*~
+
+# Editor and IDE files; shared VS Code project settings remain trackable
+.idea/
+.vscode/*.local.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+._*
+
+# Jupyter runtime checkpoints
+.ipynb_checkpoints/
